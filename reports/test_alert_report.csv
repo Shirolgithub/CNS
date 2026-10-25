@@ -1,0 +1,2 @@
+Timestamp,Domain,Resolver,Verdict,Severity,Jaccard Similarity,Baseline IPs,Observed IPs,Added IPs,Removed IPs,Anomaly Score,Reason,Recommended Action
+2026-10-25T08:00:00Z,bankofamerica.com,System Default,SUSPICIOUS_DISCREPANCY,CRITICAL,0.0,171.159.228.150,185.220.101.5,185.220.101.5,171.159.228.150,0.9,Test reason,Flush cache

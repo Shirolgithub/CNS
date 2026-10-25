@@ -1,0 +1,18 @@
+[
+  "tests/test_detection_engine.py::TestDetectionEngine::test_benign_cdn_drift",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_changed_ip_records_spoofing_discrepancy",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_jaccard_similarity",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_matching_dns_records",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_missing_records_and_nxdomain",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_rfc1918_private_injection",
+  "tests/test_detection_engine.py::TestDetectionEngine::test_same_subnet_detection",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_classify_loopback_ip",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_classify_public_ip",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_classify_rfc1918_private_ips",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_invalid_domain_names",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_invalid_input_resolution_error",
+  "tests/test_dns_monitor.py::TestDNSMonitor::test_valid_domain_names",
+  "tests/test_report_generator.py::TestReportGenerator::test_benchmark_metrics_computation",
+  "tests/test_report_generator.py::TestReportGenerator::test_course_report_generation",
+  "tests/test_report_generator.py::TestReportGenerator::test_csv_export_alerts"
+]

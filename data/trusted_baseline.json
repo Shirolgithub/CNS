@@ -1,0 +1,50 @@
+{
+  "example.com": {
+    "trusted_ips": ["93.184.215.14"],
+    "organization": "IANA / DigiCert",
+    "notes": "Standard RFC 2606 example domain",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "dns.google": {
+    "trusted_ips": ["8.8.4.4", "8.8.8.8"],
+    "organization": "Google LLC",
+    "notes": "Google Public DNS Anycast",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "one.one.one.one": {
+    "trusted_ips": ["1.0.0.1", "1.1.1.1"],
+    "organization": "Cloudflare, Inc.",
+    "notes": "Cloudflare Public DNS Anycast",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "quad9.net": {
+    "trusted_ips": ["9.9.9.9", "149.112.112.112"],
+    "organization": "Quad9 Foundation",
+    "notes": "Quad9 Secure Anycast Resolver",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "github.com": {
+    "trusted_ips": ["140.82.112.3", "140.82.112.4"],
+    "organization": "GitHub, Inc.",
+    "notes": "GitHub Web Frontend (Fastly / Akamai Anycast)",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "wikipedia.org": {
+    "trusted_ips": ["198.35.26.96"],
+    "organization": "Wikimedia Foundation",
+    "notes": "Global knowledge repository cluster",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "bankofamerica.com": {
+    "trusted_ips": ["171.159.228.150", "171.161.148.150"],
+    "organization": "Bank of America / Akamai Edge",
+    "notes": "Financial banking portal edge IPs",
+    "updated_at": "2026-10-25T08:00:00Z"
+  },
+  "portal.internal.corp": {
+    "trusted_ips": ["10.0.1.50"],
+    "organization": "Internal Enterprise Intranet",
+    "notes": "Private campus portal protected subnet",
+    "updated_at": "2026-10-25T08:00:00Z"
+  }
+}

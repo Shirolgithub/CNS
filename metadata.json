@@ -1,0 +1,6 @@
+{
+  "name": "ResolverGuard: DNS Integrity Monitoring and Spoofing Detection Workbench",
+  "description": "Enterprise-grade DNS integrity monitoring, baseline verification, change detection, spoofing heuristics, and attack simulation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
